@@ -10,4 +10,5 @@ This simple web application simulates a drum kit that plays different sounds whe
 ## if you want to hear the sounds and try it yourself you need to download the project
 
 
-1[](/musickit.gif)
+![](/musickit.gif)
+
